@@ -9,3 +9,4 @@ JA! Endelig. Det er det enkle anførselstegnet ved siden av backspaceknappen.
 Man bør alltid ha en readme-fil med i et repo.
 
 Også kan man jo lære seg markdown, for eksempel sånn som grindtegna over. 
+`er inne å endrer i dokumentet ditt`
